@@ -1,4 +1,5 @@
 #include<LPC21xx.h>
+//vishnu priya
 #include "delay.h"
 #define lcd_d 0xf<<20                                                
 #define RS 1<<17
